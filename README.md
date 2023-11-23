@@ -4,7 +4,7 @@ Virtual Fit - This clothes software is a cutting-edge technology that allows cus
 
 
 ## Use Instructions
-Run the flasktry.py file and go to localhost. Once on the main page, you can check out various shirts and pants from the navbar. Predict will show you the result with the selected shirt and pant.
+Run the app.py file and go to localhost. Once on the main page, you can check out various shirts and pants from the navbar. Predict will show you the result with the selected shirt and pant.
 
 ## Installation
 
